@@ -1,4 +1,4 @@
-package com.destination.septemberBatchProgram.oct1;
+package com.destination.septemberBatchPrograming.sep18;
 
 import java.util.Scanner;  
 
