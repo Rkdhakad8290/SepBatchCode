@@ -13,7 +13,7 @@ public class Replace5Position {
 		for(int i=0;i<str.length();i++) {
 			if(str.charAt(i)>='a' && str.charAt(i)<='z' || str.charAt(i)>='A' && str.charAt(i)<='Z') {
 				
-				str1+=str.charAt(i);
+				str1+=(char)(str.charAt(i)+5);
 			}
 		}
 		System.out.println("String ahid of "+str1);
