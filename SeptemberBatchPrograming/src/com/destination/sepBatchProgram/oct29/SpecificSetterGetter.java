@@ -55,7 +55,7 @@ public class SpecificSetterGetter {
 		Tiger t1 = new Tiger();
 		System.out.println(t1.getName());
 		System.out.println(t1.getColor());
-		System.out.println(t1.getColor());
+		System.out.println(t1.getCountry());
 		System.out.println(t1.getAge());
 		System.out.println("===============");
 
@@ -66,7 +66,7 @@ public class SpecificSetterGetter {
 		
 		System.out.println(t1.getName());
 		System.out.println(t1.getColor());
-		System.out.println(t1.getColor());
+		System.out.println(t1.getCountry());
 		System.out.println(t1.getAge());
 		System.out.println("===============");
 		 
@@ -74,7 +74,7 @@ public class SpecificSetterGetter {
 		
 		System.out.println(t2.getName());
 		System.out.println(t2.getColor());
-		System.out.println(t2.getColor());
+		System.out.println(t2.getCountry());
 		System.out.println(t2.getAge());
 		System.out.println("===============");
 		t2.setDynamicName("Samu");
@@ -84,7 +84,7 @@ public class SpecificSetterGetter {
 		
 		System.out.println(t2.getName());
 		System.out.println(t2.getColor());
-		System.out.println(t2.getColor());
+		System.out.println(t2.getCountry());
 		System.out.println(t2.getAge());
 		System.out.println("===============");
 	}

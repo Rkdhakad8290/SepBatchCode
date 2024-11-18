@@ -55,7 +55,7 @@ class FighterPlane extends Plane{
 		System.out.println("Fighter Plane has landed");
 	}
 	void carryWeapons() {
-		System.out.println("Fighter Plane carry Goods");
+		System.out.println("Fighter Plane carry weapons");
 	}
 	
 }
